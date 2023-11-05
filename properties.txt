@@ -1,0 +1,4 @@
+"AadClientId": "08113d12-ac71-497d-aea7-e420b5952c44",
+"AadSecret": "m0r8Q~bSG.RacnF9HLi7eq~H049yh-L.2KTgdbGz",
+"AadTenantDomain": "catonetworks.io",
+"AadTenantId": "5500cfec-04cf-4777-8a01-62fec6e82223",
